@@ -1,0 +1,13 @@
+import HautevilleHouse.BiomedicalMedicalImagingCanonicalLaneLean.CompartmentModel
+import HautevilleHouse.BiomedicalMedicalImagingCanonicalLaneLean.PharmacokineticParameter
+import HautevilleHouse.BiomedicalMedicalImagingCanonicalLaneLean.DiagnosticInference
+import HautevilleHouse.BiomedicalMedicalImagingCanonicalLaneLean.SurvivalAnalysis
+import HautevilleHouse.BiomedicalMedicalImagingCanonicalLaneLean.ImagingBiomarker
+
+namespace HautevilleHouse
+namespace BiomedicalMedicalImagingCanonicalLaneLean
+
+-- Root module for the Biomedical Medical Imaging canonical lane.
+
+end BiomedicalMedicalImagingCanonicalLaneLean
+end HautevilleHouse
